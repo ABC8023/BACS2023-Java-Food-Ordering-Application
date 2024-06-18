@@ -1,0 +1,3 @@
+interface PersonalDetails {
+    void displayInformation();
+}
